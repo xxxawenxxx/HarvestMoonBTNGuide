@@ -176,7 +176,7 @@
                         android:layout_height="80dp"
                         android:layout_gravity="end"
                         android:layout_marginLeft="100dp"
-                        app:srcCompat="@drawable/characters" />
+                        app:srcCompat="@drawable/calendar" />
                 </LinearLayout>
 
 
